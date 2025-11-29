@@ -3,7 +3,7 @@ layout: operation
 title: Boring
 order: 4
 difficulty: intermediate
-animation: /assets/images/operations/boring/animation.gif
+animation: /assets/models/model.glb
 tools:
   - Boring tool
   - Tool post
@@ -17,6 +17,8 @@ related_components:
 ## Overview
 
 Boring involves enlarging a hole that has already been drilled or cast. The process is used to achieve greater accuracy in diameter and to attain a smooth internal finish.
+
+{% include media-embed.html url=page.animation type='model3d' alt='Boring Operation Animation' %}
 
 ## Purpose of Boring
 

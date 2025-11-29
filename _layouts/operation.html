@@ -16,13 +16,6 @@ layout: default
     {% endif %}
   </header>
 
-  {% if page.animation %}
-    <section class="operation-animation">
-      <h2>Animation</h2>
-      {% include media-embed.html url=page.animation type="gif" alt=page.title %}
-    </section>
-  {% endif %}
-
   <div class="post-content">
     {{ content }}
   </div>
