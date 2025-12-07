@@ -1,4 +1,4 @@
----
+<!-- ---
 layout: operation
 title: Forming
 order: 9
@@ -50,4 +50,4 @@ Forming on a lathe involves shaping a workpiece into a specific contour or profi
 - Single pass forming saves time
 - Ensure uniform pressure during the pass
 - Slower speeds provide better control
-- Verify the profile matches requirements
+- Verify the profile matches requirements -->
