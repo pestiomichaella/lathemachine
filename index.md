@@ -2,11 +2,22 @@
 layout: home
 title: Lathe Machine Instructional Guide
 permalink: /
+animation: /assets/models/model.glb
 ---
 <div class="content-wrapper">
 # Welcome to the Lathe Machine Instructional Guide
 
 This comprehensive resource provides everything you need to understand, operate, and maintain lathe machines safely and effectively.
+
+<div class="media-container model3d-container">
+  <model-viewer 
+    src="{{ page.animation | relative_url }}"
+    alt="Threading Operation Animation"
+    auto-rotate
+    camera-controls
+    style="width: 100%; height: 500px;">
+  </model-viewer>
+</div>
 
 ## What You'll Find Here
 
