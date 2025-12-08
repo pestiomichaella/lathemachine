@@ -2,7 +2,7 @@
 layout: component
 title: Cross Slide
 location: On top of the carriage
-image: /assets/images/components/cross-slide/diagram.png
+image: /assets/images/components/cross slide.png
 image_caption: "Cross slide assembly with handwheel"
 function: "Controls the depth of cut by moving the tool perpendicular to the bed"
 related_operations:
@@ -15,6 +15,12 @@ related_operations:
 ## Overview
 
 The cross slide sits on the carriage and moves the tool straight into or away from the workpiece. This is the part you use to control the depth of the cut.
+
+<div class="media-container image-container">
+  <img src="{{ page.image | relative_url }}" 
+       alt="[Image Description]"
+       class="responsive-media">
+</div>
 
 ## Key Features
 

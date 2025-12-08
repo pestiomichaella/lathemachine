@@ -2,7 +2,7 @@
 layout: component
 title: Headstock
 location: Left end of lathe
-image: /assets/images/components/headstock/diagram.png
+image: /assets/images/components/headstock.jpg
 image_caption: "Headstock assembly showing spindle and motor"
 function: "Houses the main spindle, gears, and motor that drives the spindle rotation"
 related_operations:
@@ -15,6 +15,12 @@ related_operations:
 ## Overview
 
 The headstock is a critical component of the lathe. It is a robust housing that contains the main spindle, transmission gears, and the motor that drives spindle rotation.
+
+<div class="media-container image-container">
+  <img src="{{ page.image | relative_url }}" 
+       alt="[Image Description]"
+       class="responsive-media">
+</div>
 
 ## Key Features
 

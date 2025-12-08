@@ -2,7 +2,7 @@
 layout: component
 title: Spindle
 location: Inside the headstock
-image: /assets/images/components/spindle/diagram.png
+image: /assets/images/components/spindle.jpg
 image_caption: "Spindle assembly showing taper and chuck mounting"
 function: "Holds and rotates the workpiece or chuck at controlled speeds"
 related_operations:
@@ -12,6 +12,12 @@ related_operations:
 ## Overview
 
 The spindle is a hollow shaft located inside the headstock. The motor spins it, and it holds and rotates the workpiece or chuck. Its speed and rotation can be controlled for different tasks.
+
+<div class="media-container image-container">
+  <img src="{{ page.image | relative_url }}" 
+       alt="[Image Description]"
+       class="responsive-media">
+</div>
 
 ## Key Features
 

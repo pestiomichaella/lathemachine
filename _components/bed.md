@@ -2,7 +2,7 @@
 layout: component
 title: Bed
 location: Runs along the entire length of the lathe
-image: /assets/images/components/bed/diagram.png
+image: /assets/images/components/bed.jpg
 image_caption: "Lathe bed showing V-shaped ways"
 function: "Provides the rigid, stable base that supports all major components"
 related_operations:
@@ -12,6 +12,12 @@ related_operations:
 ## Overview
 
 The bed is the strong, stable base that runs along the length of the lathe. It holds up all the other major parts: the headstock, tailstock, and carriage.
+
+<div class="media-container image-container">
+  <img src="{{ page.image | relative_url }}" 
+       alt="[Image Description]"
+       class="responsive-media">
+</div>
 
 ## Key Features
 
