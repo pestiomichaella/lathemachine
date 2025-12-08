@@ -2,7 +2,7 @@
 layout: component
 title: Carriage
 location: Moves along the bed between headstock and tailstock
-image: /assets/images/components/carriage/diagram.png
+image: /assets/images/components/carriage.jpg
 image_caption: "Carriage assembly with tool post and cross slide"
 function: "Moves along the bed carrying the cutting tool and controlling its position"
 related_operations:
@@ -15,6 +15,12 @@ related_operations:
 ## Overview
 
 The carriage is the moving part that rides along the bed, carrying the cutting tool. It allows the tool to move side-to-side (longitudinal) and front-to-back (cross-feed).
+
+<div class="media-container image-container">
+  <img src="{{ page.image | relative_url }}" 
+       alt="[Image Description]"
+       class="responsive-media">
+</div>
 
 ## Key Features
 
