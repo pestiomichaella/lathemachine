@@ -1,10 +1,8 @@
 ---
 layout: page
-title: Lathe Components
+title: Understanding Lathe Components
 permalink: /pages/components.html
 ---
-
-# Understanding Lathe Components
 
 Understanding the major parts of the lathe machine is crucial for anyone looking to master lathe work or understand how these machines contribute to various machining processes.
 

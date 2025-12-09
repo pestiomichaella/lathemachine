@@ -20,14 +20,8 @@ This instructional material was created by a dedicated team of professionals com
   </div>
   <div class="author-info">
     <h3>Ryan M. Arnaldo</h3>
-    <p class="author-email">
-      <strong>Email:</strong><br>
-      ryanarnaldo26@gmail.com
-    </p>
-    <p class="author-phone">
-      <strong>Contact:</strong><br>
-      09703083268
-    </p>
+    <p class="author-email"><strong>Email:</strong><br>ryanarnaldo26@gmail.com</p>
+    <p class="author-phone"><strong>Contact:</strong><br>09703083268</p>
   </div>
 </div>
 
@@ -41,14 +35,8 @@ This instructional material was created by a dedicated team of professionals com
   </div>
   <div class="author-info">
     <h3>Jonas A. Mendez</h3>
-    <p class="author-email">
-      <strong>Email:</strong><br>
-      jonasmendez236@gmail.com
-    </p>
-    <p class="author-phone">
-      <strong>Contact:</strong><br>
-      09158723925
-    </p>
+    <p class="author-email"><strong>Email:</strong><br>jonasmendez236@gmail.com</p>
+    <p class="author-phone"><strong>Contact:</strong><br>09158723925</p>
   </div>
 </div>
 
@@ -62,14 +50,8 @@ This instructional material was created by a dedicated team of professionals com
   </div>
   <div class="author-info">
     <h3>Gelai Joy M. Nape</h3>
-    <p class="author-email">
-      <strong>Email:</strong><br>
-      gelainape1125@gmail.com
-    </p>
-    <p class="author-phone">
-      <strong>Contact:</strong><br>
-      09076375549
-    </p>
+    <p class="author-email"><strong>Email:</strong><br>gelainape1125@gmail.com</p>
+    <p class="author-phone"><strong>Contact:</strong><br>09076375549</p>
   </div>
 </div>
 
@@ -83,14 +65,8 @@ This instructional material was created by a dedicated team of professionals com
   </div>
   <div class="author-info">
     <h3>Michaella Q. Pestio</h3>
-    <p class="author-email">
-      <strong>Email:</strong><br>
-      pestiomichaella001@gmail.com
-    </p>
-    <p class="author-phone">
-      <strong>Contact:</strong><br>
-      09754771391
-    </p>
+    <p class="author-email"><strong>Email:</strong><br>pestiomichaella001@gmail.com</p>
+    <p class="author-phone"><strong>Contact:</strong><br>09754771391</p>
   </div>
 </div>
 
