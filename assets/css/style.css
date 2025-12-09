@@ -9,17 +9,16 @@ body {
 .post.operation,
 .operation-nav,
 .post.component,
-.component-nav,
-.post.type,
-.type-nav {
-  padding-inline: 1.5rem;
-  max-width: 1200px;
-  margin-inline: auto;
+.post.history,
+.component-nav {
+    padding-inline: 1.5rem;
+    max-width: 1200px;
+    margin-inline: auto;
 }
 
 .post.operation,
 .post.component,
-.post.type {
+.post.history {
   padding-top: 2rem;
 }
 
