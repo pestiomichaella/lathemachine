@@ -1,10 +1,8 @@
 ---
 layout: page
-title: Accessories & Attachments
+title: Lathe Accessories & Attachments
 permalink: /pages/accessories.html
 ---
-
-# Lathe Accessories and Attachments
 
 Several accessories are widely used with lathe machines to expand their capabilities in machining tasks.
 

@@ -4,8 +4,6 @@ title: History of the Lathe Machine
 permalink: /pages/history.html
 ---
 
-# History of the Lathe Machine
-
 ## Overview
 
 The lathe machine is a very important tool used in factories and workshops. It helps to precisely shape and cut different materials like metal, wood, and plastic.

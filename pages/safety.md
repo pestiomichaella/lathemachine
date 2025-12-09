@@ -1,10 +1,8 @@
 ---
 layout: page
-title: Safety Guidelines
+title: Lathe Machine Safety Guidelines
 permalink: /pages/safety.html
 ---
-
-# Lathe Machine Safety Guidelines
 
 Operating a lathe machine demands strict adherence to safety protocols to prevent accidents and injuries. Safety is not negotiable.
 
@@ -114,5 +112,5 @@ Part II: Safety
 3.	The safety guidelines state that gloves should generally not be worn during machine operation. Explain the underlying risk that wearing gloves introduces, which outweighs the protection they might offer. 
 
 4.	According to the Preparation and Setup SOP, what manual check must the operator perform before turning on the power to prevent machine damage or a workplace accident?
- 
+
 5.	Why does the SOP specifically warn against mounting wood that is split or contains knots? 

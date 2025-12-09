@@ -1,10 +1,8 @@
 ---
 layout: page
-title: Common Operations
+title: Lathe Machine Common Operations
 permalink: /pages/operations.html
 ---
-
-# Lathe Machine Operations
 
 A lathe machine is incredibly versatile and can perform many different operations. Each operation transforms the workpiece into the desired shape, demonstrating the lathe's capability to perform multiple tasks with precision.
 
@@ -88,11 +86,15 @@ A. Instructions: Choose the best answer that describes the required operation, t
     B. The Feed Rod
     C. The Lead Screw 
     D. The Tailstock
-
+    
 B. Instructions: Answer the following questions with specific technical details.
 
-    1.	Besides creating a flat starting surface, what is the other critical function of Facing in preparing a workpiece for subsequent operations like drilling or turning? 11
-    2.	Explain the necessity of the Grooving operation in hydraulic and pneumatic applications. What specific features are often created? 12
-    3.	When performing a Boring operation, the procedure recommends taking "multiple light passes." Why is this approach favored over attempting to remove all the necessary   material in a single, deep cut? 13
-    4.	Identify the two main methods mentioned in the text for adjusting the cutting angle to achieve Taper Turning on a lathe. 14
-    5.	Explain the dual role of Chamfering in machining. It serves both an aesthetic purpose and a practical one. What is the practical safety/functional reason for this operation?
+1.	Besides creating a flat starting surface, what is the other critical function of Facing in preparing a workpiece for subsequent operations like drilling or turning? 11
+
+2.	Explain the necessity of the Grooving operation in hydraulic and pneumatic applications. What specific features are often created? 12
+
+3.	When performing a Boring operation, the procedure recommends taking "multiple light passes." Why is this approach favored over attempting to remove all the necessary   material in a single, deep cut? 13
+
+4.	Identify the two main methods mentioned in the text for adjusting the cutting angle to achieve Taper Turning on a lathe. 14
+
+5.	Explain the dual role of Chamfering in machining. It serves both an aesthetic purpose and a practical one. What is the practical safety/functional reason for this operation?

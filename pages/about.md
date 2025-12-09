@@ -1,10 +1,9 @@
 ---
 layout: page
-title: About This Guide
+title: About This Instructional Guide
 permalink: /pages/about.html
 ---
 
-# About This Instructional Guide
 
 ## Purpose
 
