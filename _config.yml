@@ -19,15 +19,15 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Instructional Material Website
-email: ivanjacobgojar.milan24@bicol-u.edu.ph
+email: pestiomichaella001@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Comprehensive instructional material for lathe machine operations,
   components, and safety guidelines.
-baseurl: "/staticwebsite" # the subpath of your site, e.g. /blog
-url: "https://chivarly.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/lathemachine" # the subpath of your site, e.g. /blog
+url: "https://pestiomichaella.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
-github_username:  chivarly
-repository: chivarly/staticwebsite
+github_username:  pestiomichaella
+repository: pestiomichaella/lathemachine
 
 # Build settings
 theme: minima
