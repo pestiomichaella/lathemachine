@@ -2,7 +2,7 @@
 layout: component
 title: Headstock
 location: Left end of lathe
-animation: /assets/models/components/HEADSTOCK.stp
+animation: /assets/models/components/HEADSTOCK.glb
 image_caption: "Headstock assembly showing spindle and motor"
 function: "Houses the main spindle, gears, and motor that drives the spindle rotation"
 related_operations:

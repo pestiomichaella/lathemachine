@@ -2,7 +2,7 @@
 layout: component
 title: Lead Screw
 location: Runs along the length of the bed, under the carriage
-animation: /assets/models/components/LEAD SCREW.stp
+animation: /assets/models/components/LEAD SCREW.glb
 image_caption: "Lead screw assembly showing thread pitch"
 function: "Precisely controls tool movement for creating threads and controlled feeds"
 related_operations:

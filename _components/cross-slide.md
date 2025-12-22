@@ -2,7 +2,7 @@
 layout: component
 title: Cross Slide
 location: On top of the carriage
-animation: /assets/models/components/CROSS SLIDE.stp
+animation: /assets/models/components/CROSS SLIDE.glb
 image_caption: "Cross slide assembly with handwheel"
 function: "Controls the depth of cut by moving the tool perpendicular to the bed"
 related_operations:

@@ -2,7 +2,7 @@
 layout: component
 title: Carriage
 location: Moves along the bed between headstock and tailstock
-animation: /assets/models/components/CARRIAGE.stp
+animation: /assets/models/components/CARRIAGE.glb
 image_caption: "Carriage assembly with tool post and cross slide"
 function: "Moves along the bed carrying the cutting tool and controlling its position"
 related_operations:

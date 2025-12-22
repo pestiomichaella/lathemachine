@@ -2,7 +2,7 @@
 layout: component
 title: Bed
 location: Runs along the entire length of the lathe
-animation: /assets/models/components/BED.stp
+animation: /assets/models/components/BED.glb
 image_caption: "Lathe bed 3D model"
 function: "Provides the rigid, stable base that supports all major components"
 related_operations:

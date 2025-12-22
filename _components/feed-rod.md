@@ -2,7 +2,7 @@
 layout: component
 title: Feed Rod
 location: Runs along the bed, parallel to lead screw
-animation: /assets/models/components/FEED ROD.stp
+animation: /assets/models/components/FEED ROD.glb
 image_caption: "Feed rod assembly for automatic carriage feed"
 function: "Automatically moves the carriage during non-threading cuts"
 related_operations:

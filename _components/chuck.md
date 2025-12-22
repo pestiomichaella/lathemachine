@@ -2,7 +2,7 @@
 layout: component
 title: Chuck
 location: Attached to the front of the spindle
-animation: /assets/models/components/CHUCK.stp
+animation: /assets/models/components/CHUCK.glb
 image_caption: "3-jaw universal chuck mounted on spindle"
 function: "Grips and holds the workpiece securely for rotation and machining"
 related_operations:

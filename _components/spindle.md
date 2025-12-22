@@ -2,7 +2,7 @@
 layout: component
 title: Spindle
 location: Inside the headstock
-animation: /assets/models/components/SPINDLE.stp
+animation: /assets/models/components/SPINDLE.glb
 image_caption: "Spindle assembly showing taper and chuck mounting"
 function: "Holds and rotates the workpiece or chuck at controlled speeds"
 related_operations:

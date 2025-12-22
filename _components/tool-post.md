@@ -2,7 +2,7 @@
 layout: component
 title: Tool Post
 location: Mounted on the carriage
-animation: /assets/models/components/TOOL POST.stp
+animation: /assets/models/components/TOOL POST.glb
 image_caption: "Tool post with cutting tool secured at center height"
 function: "Holds and positions the cutting tool at the proper height and angle"
 related_operations:
