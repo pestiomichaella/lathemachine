@@ -2,7 +2,7 @@
 layout: component
 title: Tailstock
 location: Right end of lathe, opposite the headstock
-image: /assets/images/components/tailstock.png
+animation: /assets/models/components/TAILSTOCK.stp
 image_caption: "Tailstock assembly with quill and center"
 function: "Supports the far end of long workpieces and holds cutting tools like drills"
 related_operations:
@@ -16,10 +16,14 @@ related_operations:
 
 The tailstock sits on the right side of the lathe, opposite the headstock. Its main purpose is to support the far end of long workpieces to prevent bending and to hold tools for drilling and boring.
 
-<div class="media-container image-container">
-  <img src="{{ page.image | relative_url }}" 
-       alt="[Image Description]"
-       class="responsive-media">
+<div class="media-container model3d-container">
+  <model-viewer 
+    src="{{ page.animation | relative_url }}"
+    alt="Tail Stock 3D Model"
+    auto-rotate
+    camera-controls
+    style="width: 100%; height: 500px;">
+  </model-viewer>
 </div>
 
 ## Key Features

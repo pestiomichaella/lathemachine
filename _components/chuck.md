@@ -2,7 +2,7 @@
 layout: component
 title: Chuck
 location: Attached to the front of the spindle
-image: /assets/images/components/chuck.jpg
+animation: /assets/models/components/CHUCK.stp
 image_caption: "3-jaw universal chuck mounted on spindle"
 function: "Grips and holds the workpiece securely for rotation and machining"
 related_operations:
@@ -16,10 +16,14 @@ related_operations:
 
 The chuck is the primary tool holder that attaches to the spindle. It has jaws that grip and secure the workpiece so it can be spun and cut.
 
-<div class="media-container image-container">
-  <img src="{{ page.image | relative_url }}" 
-       alt="[Image Description]"
-       class="responsive-media">
+<div class="media-container model3d-container">
+  <model-viewer 
+    src="{{ page.animation | relative_url }}"
+    alt="Chuck 3D Model"
+    auto-rotate
+    camera-controls
+    style="width: 100%; height: 500px;">
+  </model-viewer>
 </div>
 
 ## Key Features

@@ -2,7 +2,7 @@
 layout: component
 title: Tool Post
 location: Mounted on the carriage
-image: /assets/images/components/tool post.png
+animation: /assets/models/components/TOOL POST.stp
 image_caption: "Tool post with cutting tool secured at center height"
 function: "Holds and positions the cutting tool at the proper height and angle"
 related_operations:
@@ -16,10 +16,14 @@ related_operations:
 
 The tool post is mounted on the carriage. It is where the operator places and secures the sharp cutting tool. It allows the tool to be set at various angles for different cuts.
 
-<div class="media-container image-container">
-  <img src="{{ page.image | relative_url }}" 
-       alt="[Image Description]"
-       class="responsive-media">
+<div class="media-container model3d-container">
+  <model-viewer 
+    src="{{ page.animation | relative_url }}"
+    alt="Tool Post 3D Model"
+    auto-rotate
+    camera-controls
+    style="width: 100%; height: 500px;">
+  </model-viewer>
 </div>
 
 ## Key Features

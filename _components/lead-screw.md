@@ -2,7 +2,7 @@
 layout: component
 title: Lead Screw
 location: Runs along the length of the bed, under the carriage
-image: /assets/images/components/lead screw.jpg
+animation: /assets/models/components/LEAD SCREW.stp
 image_caption: "Lead screw assembly showing thread pitch"
 function: "Precisely controls tool movement for creating threads and controlled feeds"
 related_operations:
@@ -15,10 +15,14 @@ related_operations:
 
 The lead screw is a long, threaded rod that runs along the bed. It is key for making precise threads and works with the carriage to ensure controlled, accurate cuts.
 
-<div class="media-container image-container">
-  <img src="{{ page.image | relative_url }}" 
-       alt="[Image Description]"
-       class="responsive-media">
+<div class="media-container model3d-container">
+  <model-viewer 
+    src="{{ page.animation | relative_url }}"
+    alt="Headstock 3D Model"
+    auto-rotate
+    camera-controls
+    style="width: 100%; height: 500px;">
+  </model-viewer>
 </div>
 
 ## Key Features

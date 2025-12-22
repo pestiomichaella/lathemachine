@@ -2,7 +2,7 @@
 layout: component
 title: Carriage
 location: Moves along the bed between headstock and tailstock
-image: /assets/images/components/carriage.jpg
+animation: /assets/models/components/CARRIAGE.stp
 image_caption: "Carriage assembly with tool post and cross slide"
 function: "Moves along the bed carrying the cutting tool and controlling its position"
 related_operations:
@@ -16,10 +16,14 @@ related_operations:
 
 The carriage is the moving part that rides along the bed, carrying the cutting tool. It allows the tool to move side-to-side (longitudinal) and front-to-back (cross-feed).
 
-<div class="media-container image-container">
-  <img src="{{ page.image | relative_url }}" 
-       alt="[Image Description]"
-       class="responsive-media">
+<div class="media-container model3d-container">
+  <model-viewer 
+    src="{{ page.animation | relative_url }}"
+    alt="Carriage 3D Model"
+    auto-rotate
+    camera-controls
+    style="width: 100%; height: 500px;">
+  </model-viewer>
 </div>
 
 ## Key Features
