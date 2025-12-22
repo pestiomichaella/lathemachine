@@ -104,61 +104,61 @@ Always wear appropriate protective gear when working on a lathe.
 1.	Why are gloves discouraged during lathe operation?
 
     a. They reduce hand strength
-    
+
     b. They may get caught in rotating parts
-    
+
     c. They cause hand fatigue
-    
+
     d. They block coolant flow
 
 2.	Facing is a lathe operation that mainly:
 
     a. Produces tapered surfaces
-    
+
     b. Creates a flat surface at the end of the workpiece
-    
+
     c. Cuts internal threads
-    
+
     d. Forms grooves
 
 3.	Grooving is classified as an operation that:
 
     a. Shapes decorative patterns
-    
+
     b. Creating channels and grooves
-    
+
     c. Improves surface hardness
-    
+
     d. Removes internal material
 
 4.	Which lathe accessory is vital for supporting and aligning the workpiece during turning, facing, and tapering operations?
 
     a. Mandrel
-    
+
     b. Chuck
-    
+
     c. Centre
-    
+
     d. Face plate
 
 5.	Which type of centre is designed to resist wear and deformation due to its hardened tip?
 
     a. Ordinary centre
-    
+
     b. Ball centre
-    
+
     c. Tipped centre
-    
+
     d. Half centre
 
 6.	Which centre is specially designed for taper turning with minimal wear due to its rounded shape?
 
     a. Insert type centre
-    
+
     b. Ball centre
-    
+
     c. Pipe centre
-    
+
     d. Ordinary centre
 
 ### Answer Key
@@ -166,7 +166,7 @@ Always wear appropriate protective gear when working on a lathe.
 <div class="answer-key-container" onclick="revealAnswer(this)">
 <p class="blur-text">Click to reveal answers</p>
 <div class="answer-content">
-<strong>Part 2: HISTORY</strong><br>
+<strong>Part 2: SAFETY</strong><br>
 1. B<br>
 2. B<br>
 3. B<br>
