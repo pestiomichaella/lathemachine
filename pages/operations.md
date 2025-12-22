@@ -147,20 +147,20 @@ Part V: Common Operations
 ### Answer Key
 
 <div class="answer-key-container" onclick="revealAnswer(this)">
-    <p class="blur-text">Click to reveal answers</p>
-    <div class="answer-content">
-        <strong>Part 5: COMMON OPERATIONS</strong><br>
-        A.<br><br>
-        1. D<br>
-        2. C<br>
-        3. C<br>
-        4. D<br>
-        5. C<br><br>
-        B.<br><br>
-        1. B<br>
-        2. B<br>
-        3. B<br>
-        4. C<br>
-        5. C
-    </div>
+<p class="blur-text">Click to reveal answers</p>
+<div class="answer-content">
+<strong>Part 5: COMMON OPERATIONS</strong><br>
+A.<br><br>
+1. D<br>
+2. C<br>
+3. C<br>
+4. D<br>
+5. C<br><br>
+B.<br><br>
+1. B<br>
+2. B<br>
+3. B<br>
+4. C<br>
+5. C
+</div>
 </div>

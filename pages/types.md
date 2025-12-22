@@ -40,13 +40,13 @@ Lathe machines are essential tools, but they are designed in many different ways
 ### Answer Key
 
 <div class="answer-key-container" onclick="revealAnswer(this)">
-    <p class="blur-text">Click to reveal answers</p>
-    <div class="answer-content">
-        <strong>Part 4: TYPES</strong><br>
-        1. E<br>
-        2. D<br>
-        3. A<br>
-        4. C<br>
-        5. B
-    </div>
+<p class="blur-text">Click to reveal answers</p>
+<div class="answer-content">
+<strong>Part 4: TYPES</strong><br>
+1. E<br>
+2. D<br>
+3. A<br>
+4. C<br>
+5. B
+</div>
 </div>

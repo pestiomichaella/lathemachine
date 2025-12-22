@@ -179,18 +179,18 @@ This attachment mounts on the cross slide and positions the tool post at special
 ### Answer Key
 
 <div class="answer-key-container" onclick="revealAnswer(this)">
-    <p class="blur-text">Click to reveal answers</p>
-    <div class="answer-content">
-        <strong>Part 4: TYPES</strong><br>
-        1. C<br>
-        2. C<br>
-        3. B<br>
-        4. C<br>
-        5. C<br>
-        6. B<br>
-        7. D<br>
-        8. C<br>
-        9. B<br>
-        10. C
-    </div>
+<p class="blur-text">Click to reveal answers</p>
+<div class="answer-content">
+<strong>Part 6: ACCESSORIES</strong><br>
+1. C<br>
+2. C<br>
+3. B<br>
+4. C<br>
+5. C<br>
+6. B<br>
+7. D<br>
+8. C<br>
+9. B<br>
+10. C
+</div>
 </div>

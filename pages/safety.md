@@ -146,14 +146,14 @@ Always wear appropriate protective gear when working on a lathe.
 ### Answer Key
 
 <div class="answer-key-container" onclick="revealAnswer(this)">
-    <p class="blur-text">Click to reveal answers</p>
-    <div class="answer-content">
-        <strong>Part 2: HISTORY</strong><br>
-        1. B<br>
-        2. B<br>
-        3. B<br>
-        4. C<br>
-        5. C<br>
-        6. B
-    </div>
+<p class="blur-text">Click to reveal answers</p>
+<div class="answer-content">
+<strong>Part 2: HISTORY</strong><br>
+1. B<br>
+2. B<br>
+3. B<br>
+4. C<br>
+5. C<br>
+6. B
+</div>
 </div>

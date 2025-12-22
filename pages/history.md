@@ -157,10 +157,10 @@ The lathe machine continues to evolve:
 ### Answer Key
 
 <div class="answer-key-container" onclick="revealAnswer(this)">
-    <p class="blur-text">Click to reveal answers</p>
-    <div class="answer-content">
-        <strong>Part 1: HISTORY</strong><br>
-        1. B<br>
-        2. B
-    </div>
+<p class="blur-text">Click to reveal answers</p>
+<div class="answer-content">
+<strong>Part 1: HISTORY</strong><br>
+1. B<br>
+2. B
+</div>
 </div>
