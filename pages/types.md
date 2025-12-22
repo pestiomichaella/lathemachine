@@ -31,8 +31,22 @@ Lathe machines are essential tools, but they are designed in many different ways
 
 | Scenario | Lathe Type |
 |----------|-----------|
-| 1. Mass production of identical, small, complex medical device components that are long and thin. | E. CNC Swiss-Type Lathe |
-| 2. Boring and facing a massive, heavy turbine disk for a power generation plant. | D. Vertical Lathe (VTL) |
-| 3. A university machine shop needs a standard, versatile machine for general turning practice on single-part jobs. | A. Engine Lathe (Center Lathe) |
-| 4. Production of a large batch of identical fasteners, requiring automated, unsupervised tool changes and material feed. | C. Automatic Lathe |
-| 5. A tool and die shop needs to create a highly accurate gauge, demanding the greatest possible control and precision settings. | B. Tool Room Lathe |
+| 1. Mass production of identical, small, complex medical device components that are long and thin. | A. Engine Lathe (Center Lathe) |
+| 2. Boring and facing a massive, heavy turbine disk for a power generation plant. | B. Tool Room Lathe  |
+| 3. A university machine shop needs a standard, versatile machine for general turning practice on single-part jobs. | C. Automatic Lathe |
+| 4. Production of a large batch of identical fasteners, requiring automated, unsupervised tool changes and material feed. | D. Vertical Lathe (VTL) |
+| 5. A tool and die shop needs to create a highly accurate gauge, demanding the greatest possible control and precision settings. | E. CNC Swiss-Type Lathe |
+
+### Answer Key
+
+<div class="answer-key-container" onclick="revealAnswer(this)">
+    <p class="blur-text">Click to reveal answers</p>
+    <div class="answer-content">
+        <strong>Part 4: TYPES</strong><br>
+        1. E<br>
+        2. D<br>
+        3. A<br>
+        4. C<br>
+        5. B
+    </div>
+</div>

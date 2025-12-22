@@ -1,0 +1,37 @@
+/* Answer Key Styling */
+.answer-key-container {
+    background-color: #f8f9fa;
+    border: 2px dashed #ccc;
+    padding: 15px;
+    margin-top: 20px;
+    cursor: pointer;
+    text-align: center;
+    border-radius: 8px;
+    transition: background-color 0.3s ease;
+    position: relative;
+}
+
+.answer-key-container:hover {
+    background-color: #f0f0f0;
+}
+
+.answer-content {
+    filter: blur(8px); /* The blur effect */
+    transition: filter 0.5s ease;
+    user-select: none; /* Prevents highlighting while blurred */
+}
+
+.answer-key-container.revealed .answer-content {
+    filter: blur(0); /* Removes the blur */
+    user-select: text;
+}
+
+.blur-text {
+    color: #555;
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+
+.answer-key-container.revealed .blur-text {
+    display: none; /* Hide the "Click to reveal" text once clicked */
+}

@@ -101,20 +101,59 @@ Always wear appropriate protective gear when working on a lathe.
 
 ### Part II: Safety
 
-1.	An operator is polishing a workpiece with a rag while wearing loose, untucked sleeves. The chuck key is still lightly resting in the headstock after the setup.
-    
-    a.	Identify the two most immediate and critical safety hazards.
-    
-    b.	Propose the corrective action for each hazard based on the SOP and safety guidelines.
+1.	Why are gloves discouraged during lathe operation?
 
-2.	A machinist finishes a turning pass, immediately stops the workpiece by quickly reversing the power, and begins measuring the newly machined diameter before the spindle comes to a complete halt.
+    a. They reduce hand strength
+    b. They may get caught in rotating parts
+    c. They cause hand fatigue
+    d. They block coolant flow
 
-    a.	Identify the two SOP violations.
-    
-    b.	Explain why the SOP advises against reversing power to stop the chuck rotation. 
+2.	Facing is a lathe operation that mainly:
 
-3.	The safety guidelines state that gloves should generally not be worn during machine operation. Explain the underlying risk that wearing gloves introduces, which outweighs the protection they might offer. 
+    a. Produces tapered surfaces
+    b. Creates a flat surface at the end of the workpiece
+    c. Cuts internal threads
+    d. Forms grooves
 
-4.	According to the Preparation and Setup SOP, what manual check must the operator perform before turning on the power to prevent machine damage or a workplace accident?
+3.	Grooving is classified as an operation that:
 
-5.	Why does the SOP specifically warn against mounting wood that is split or contains knots? 
+    a. Shapes decorative patterns
+    b. Creating channels and grooves
+    c. Improves surface hardness
+    d. Removes internal material
+
+4.	Which lathe accessory is vital for supporting and aligning the workpiece during turning, facing, and tapering operations?
+
+    a. Mandrel
+    b. Chuck
+    c. Centre
+    d. Face plate
+
+5.	Which type of centre is designed to resist wear and deformation due to its hardened tip?
+
+    a. Ordinary centre
+    b. Ball centre
+    c. Tipped centre
+    d. Half centre
+
+6.	Which centre is specially designed for taper turning with minimal wear due to its rounded shape?
+
+    a. Insert type centre
+    b. Ball centre
+    c. Pipe centre
+    d. Ordinary centre
+
+### Answer Key
+
+<div class="answer-key-container" onclick="revealAnswer(this)">
+    <p class="blur-text">Click to reveal answers</p>
+    <div class="answer-content">
+        <strong>Part 2: HISTORY</strong><br>
+        1. B<br>
+        2. B<br>
+        3. B<br>
+        4. C<br>
+        5. C<br>
+        6. B
+    </div>
+</div>

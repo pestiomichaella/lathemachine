@@ -109,12 +109,58 @@ Part V: Common Operations
     
 **B. Instructions:** Answer the following questions with specific technical details.
 
-1.	Besides creating a flat starting surface, what is the other critical function of Facing in preparing a workpiece for subsequent operations like drilling or turning? 11
+1.	Before starting the lathe, which safety practice is emphasized?
 
-2.	Explain the necessity of the Grooving operation in hydraulic and pneumatic applications. What specific features are often created? 12
+    a. Adjust spindle speed immediately
+    b. Remove the chuck key
+    c. Install cutting tools first
+    d. Increase feed rate
 
-3.	When performing a Boring operation, the procedure recommends taking "multiple light passes." Why is this approach favored over attempting to remove all the necessary   material in a single, deep cut? 13
+2.	The safety section warns against mounting cracked or defective materials because:
 
-4.	Identify the two main methods mentioned in the text for adjusting the cutting angle to achieve Taper Turning on a lathe. 14
+    a. It dulls the cutting tool
+    b. It may break and cause accidents
+    c. It slows the operation
+    d. It affects machine accuracy
 
-5.	Explain the dual role of Chamfering in machining. It serves both an aesthetic purpose and a practical one. What is the practical safety/functional reason for this operation?
+3.	Boring is performed on a lathe to:
+
+    a. Reduce external diameter
+    b. Enlarge an existing hole
+    c. Cut threads
+    d. Face the workpiece
+
+4.	It is primarily used to support hollow cylindrical workpieces such as pipes?
+
+    a. Half centre
+    b. Ball centre
+    c. Pipe centre
+    d. Frictionless centre
+
+5.	Which type of chuck has jaws that move together to securely grip round or hexagonal workpieces?
+
+    a. Four-jaw independent chuck
+    b. Combination chuck
+    c. Three-jaw universal chuck
+    d. Face plate
+
+### Answer Key
+
+<div class="answer-key-container" onclick="revealAnswer(this)">
+    <p class="blur-text">Click to reveal answers</p>
+    <div class="answer-content">
+        <strong>Part 5: COMMON OPERATIONS</strong><br>
+        A.<br><br>
+        1. D<br>
+        2. C<br>
+        3. C<br>
+        4. D<br>
+        5. C<br><br>
+        B.<br><br>
+        1. B<br>
+        2. B<br>
+        3. B<br>
+        4. C<br>
+        5. C
+    </div>
+</div>

@@ -138,6 +138,29 @@ The lathe machine continues to evolve:
 
 ### Part I: History
 
-1.	A manufacturing firm needs to produce 1,000 perfectly cylindrical shafts, 500 threaded bolts, and 200 components with complex, non-threaded grooves. Explain why the lathe machine is the primary and most efficient machine for this diverse production order, citing the core principle of its operation.
+1.	A manufacturing firm requires mass production of cylindrical parts. Which machine is most suitable?
 
-2.	Henry Maudslay is credited as the "father of the modern lathe". Discuss the specific significance of his improvements in the early 1800s in the context of global manufacturing and the necessity for "accurate metalworking" that followed.
+    a) Milling Machine
+    b) Lathe Machine
+    c) Shaping Machine
+    d) Drilling Machine
+
+
+2.	Henry Maudslay is known for improving the lathe by:
+
+    a) Inventing CNC machines
+    b) Developing precision lathe mechanisms
+    c) Adding electrical controls
+    d) Introducing grinding attachments
+
+
+### Answer Key
+
+<div class="answer-key-container" onclick="revealAnswer(this)">
+    <p class="blur-text">Click to reveal answers</p>
+    <div class="answer-content">
+        <strong>Part 1: HISTORY</strong><br>
+        1. B<br>
+        2. B
+    </div>
+</div>

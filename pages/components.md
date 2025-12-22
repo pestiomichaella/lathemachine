@@ -74,3 +74,16 @@ Understanding the major parts of the lathe machine is crucial for anyone looking
 3.	The main purpose of the ______ is to support the far end of long workpieces to prevent bending , but it also holds tools like drills for making holes.
 
 4.	The _______ is the component that must be supremely rigid to prevent shaking that could ruin the work's accuracy.
+
+### Answer Key
+
+<div class="answer-key-container" onclick="revealAnswer(this)">
+    <p class="blur-text">Click to reveal answers</p>
+    <div class="answer-content">
+        <strong>Part 3: COMPONENTS</strong><br>
+        1. C<br>
+        2. Lead Screw, Feed Rod<br>
+        3. Tailstock<br>
+        4. Bed
+    </div>
+</div>
