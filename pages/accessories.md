@@ -108,71 +108,101 @@ This attachment mounts on the cross slide and positions the tool post at special
 1.	Which chuck is best suited for holding irregularly shaped workpieces?
 
     a. Three-jaw universal chuck
+    
     b. Combination chuck
+    
     c. Four-jaw independent chuck
+    
     d. Mandrel
 
 2.	It is used to clamp irregularly shaped workpieces that cannot be held by chucks or centres?
 
     a. Mandrel
+    
     b. Angle plate
+    
     c. Face plate
+    
     d. Catch plate
 
-3.	 Why are light cuts recommended during boring operations?
+3.	Why are light cuts recommended during boring operations?
 
     a. To increase machine speed
+    
     b. To improve accuracy and surface finish
+    
     c. To save electricity
+    
     d. To avoid lubrication
 
-4.	 Taper turning on a lathe is an operation used to:
+4.	Taper turning on a lathe is an operation used to:
 
     a. Cut internal threads
+    
     b. Produce a flat surface
+    
     c. Create conical shapes
+    
     d. Enlarge an existing hole
 
 5.	It supports long workpieces to prevent deflection and vibration when machining between centres?
 
     a. Follower rest
+    
     b. Steady rest
+    
     c. Rests
+    
     d. Carrier
 
 6.	Which rest is mounted on the carriage and moves along with the cutting tool to support the workpiece near the cutting zone?
 
     a. Steady rest
+    
     b. Follower rest
+    
     c. Pipe centre
+    
     d. Catch plate
 
-7.	 It is mounted on the cross slide and is used to machine concave, convex, and spherical shapes?
+7.	It is mounted on the cross slide and is used to machine concave, convex, and spherical shapes?
 
     a. Grinding attachment
+    
     b. Gear cutting attachment
+    
     c. Milling attachment
+    
     d. Spherical turning attachment
 
-8.	 Which type of lathe is BEST suited for producing long, slender, and highly precise parts such as medical device components?
+8.	Which type of lathe is BEST suited for producing long, slender, and highly precise parts such as medical device components?
 
     a. Engine Lathe (Center Lathe)
+    
     b. Tool Room Lathe
+    
     c. CNC Swiss-Type Lathe
+    
     d. Bench Lathe
 
 9.	A manufacturing plant needs a lathe that can safely machine very large and heavy workpieces like turbine disks. Which lathe type should be used?
 
     a. Gap Bed Lathe
+    
     b. Vertical Lathe (VTL)
+    
     c. Speed Lathe
+    
     d. Mini/Micro Lathe
 
 10.	Which lathe machine is designed for high-volume production with automatic tool changes and minimal operator supervision?
 
     a. Turret Lathe
+    
     b. Engine Lathe
+    
     c. Automatic Lathe
+    
     d. Tool Room Lathe
 
 

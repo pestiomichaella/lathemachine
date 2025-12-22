@@ -140,18 +140,24 @@ The lathe machine continues to evolve:
 
 1.	A manufacturing firm requires mass production of cylindrical parts. Which machine is most suitable?
 
-    a) Milling Machine
-    b) Lathe Machine
-    c) Shaping Machine
-    d) Drilling Machine
+    a. Milling Machine
+    
+    b. Lathe Machine
+    
+    c. Shaping Machine
+    
+    d. Drilling Machine
 
 
 2.	Henry Maudslay is known for improving the lathe by:
 
-    a) Inventing CNC machines
-    b) Developing precision lathe mechanisms
-    c) Adding electrical controls
-    d) Introducing grinding attachments
+    a. Inventing CNC machines
+    
+    b. Developing precision lathe mechanisms
+    
+    c. Adding electrical controls
+    
+    d. Introducing grinding attachments
 
 
 ### Answer Key

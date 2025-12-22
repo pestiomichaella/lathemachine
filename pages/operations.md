@@ -111,38 +111,53 @@ Part V: Common Operations
 
 1.	Before starting the lathe, which safety practice is emphasized?
 
-    a. Adjust spindle speed immediately
-    b. Remove the chuck key
-    c. Install cutting tools first
-    d. Increase feed rate
+    A. Adjust spindle speed immediately
+
+    B. Remove the chuck key
+
+    C. Install cutting tools first
+
+    D. Increase feed rate
 
 2.	The safety section warns against mounting cracked or defective materials because:
 
-    a. It dulls the cutting tool
-    b. It may break and cause accidents
-    c. It slows the operation
-    d. It affects machine accuracy
+    A. It dulls the cutting tool
+
+    B. It may break and cause accidents
+
+    C. It slows the operation
+
+    D. It affects machine accuracy
 
 3.	Boring is performed on a lathe to:
 
-    a. Reduce external diameter
-    b. Enlarge an existing hole
-    c. Cut threads
-    d. Face the workpiece
+    A. Reduce external diameter
+
+    B. Enlarge an existing hole
+
+    C. Cut threads
+
+    D. Face the workpiece
 
 4.	It is primarily used to support hollow cylindrical workpieces such as pipes?
 
-    a. Half centre
-    b. Ball centre
-    c. Pipe centre
-    d. Frictionless centre
+    A. Half centre
+
+    B. Ball centre
+
+    C. Pipe centre
+
+    D. Frictionless centre
 
 5.	Which type of chuck has jaws that move together to securely grip round or hexagonal workpieces?
 
-    a. Four-jaw independent chuck
-    b. Combination chuck
-    c. Three-jaw universal chuck
-    d. Face plate
+    A. Four-jaw independent chuck
+
+    B. Combination chuck
+
+    C. Three-jaw universal chuck
+
+    D. Face plate
 
 ### Answer Key
 
