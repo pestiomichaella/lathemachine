@@ -395,3 +395,84 @@
     }
   }
 }
+
+/* Learning Outcomes Section */
+.outcomes-section {
+  padding: 4rem 0;
+  background-color: #ffffff;
+}
+
+.section-title {
+  text-align: center;
+  font-size: 2.5rem;
+  color: #1a237e;
+  margin-bottom: 3rem;
+  font-weight: 700;
+  position: relative;
+}
+
+/* Creating an underline effect similar to your table headers */
+.section-title::after {
+  content: '';
+  display: block;
+  width: 60px;
+  height: 4px;
+  background: #ff6f00;
+  margin: 10px auto 0;
+  border-radius: 2px;
+}
+
+.outcomes-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 2rem;
+}
+
+.outcome-item {
+  display: flex;
+  align-items: flex-start;
+  gap: 1.5rem;
+  padding: 2rem;
+  background: #f8faff;
+  border-radius: 15px;
+  border-left: 5px solid #764ba2;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.outcome-item:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 10px 20px rgba(0,0,0,0.05);
+  border-left-color: #ff6f00; /* Changes to orange on hover */
+}
+
+.outcome-number {
+  font-size: 2rem;
+  font-weight: 800;
+  color: rgba(118, 75, 162, 0.2); /* Faded purple number */
+  line-height: 1;
+}
+
+.outcome-text h3 {
+  font-size: 1.25rem;
+  color: #1a237e;
+  margin: 0 0 0.5rem 0;
+  font-weight: 700;
+}
+
+.outcome-text p {
+  color: #546e7a;
+  font-size: 1rem;
+  line-height: 1.5;
+  margin: 0;
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+  .section-title {
+    font-size: 2rem;
+  }
+  
+  .outcome-item {
+    padding: 1.5rem;
+  }
+}
